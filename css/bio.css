@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Sketch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
+header{
+    background-color: rgb(158, 111, 99);
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top: 70px;
+    font-family: "Londrina Sketch", sans-serif;
+}
+
+h1{
+    font-size: 100px;
+}
+
+nav{
+    z-index: 100;
+}
+
+nav ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: rgb(201, 185, 161);
+    position: fixed;
+    width: 100%;
+    margin-top: 0;
+    padding: 0px;
+    top: 0;
+}
+
+nav li{
+    float: left;
+    }
+
+nav a{
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    color: rgb(44, 38, 36);
+}
+
+nav a:hover{
+    background-color: rgb(199, 139, 105);
+}
+
+body{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    font-family: "Playwrite GB S", cursive;
+}
+
+section{
+    background-color: rgb(201, 185, 161);
+    width: 60vw;
+    margin: auto;
+    padding: 45px;
+}
+
+
+.alternate{
+    background-color: rgb(93, 114, 107);
+}
+
+.portfolio img {
+    margin-bottom: 15px;
+    padding: 2px;
+}
+
+h2{
+    font-family: "Londrina Sketch", sans-serif;
+    font-size: 50px;
+   
+}
+
+h3{
+    font-size: 13px;
+    
+}
+
+
+a {
+    color: rgb(148, 179, 169);
+    text-decoration: none;
+}
+
+footer {
+    background-color: rgb(158, 111, 99);
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+footer a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+
