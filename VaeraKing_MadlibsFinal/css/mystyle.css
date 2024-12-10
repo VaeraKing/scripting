@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Barriecito&family=Londrina+Sketch&family=Markazi+Text:wght@400..700&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Barriecito&family=Indie+Flower&family=Londrina+Sketch&family=Markazi+Text:wght@400..700&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+header{
+    background-color: rgb(31, 185, 206);
+    background-size: cover;
+    text-align: center;
+    padding-top: 70px;
+    background-position: center; 
+    font-family: "Barriecito", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+h1{
+    font-size: 200px;
+}
+
+h2{
+    font-size: 45px;
+}
+
+section{
+    background-color: rgb(245, 209, 91);
+}
+
+body{
+    color: rgb(0, 0, 0);
+    margin: 0;
+    font-family: "Tinos", serif;
+    font-weight: 30px;
+    font-style: normal;
+    background-color: rgb(117, 185, 194);
+    font-size: 20px;
+    
+}
+
+#output {
+    border: 5px solid white;
+    font-family: 'Tinos', serif;
+    padding: 15px;
+}
+
+footer {
+    background-color: rgb(31, 185, 206);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    }
+}
+
+footer p {
+    margin-top: 10px;
+}
+
